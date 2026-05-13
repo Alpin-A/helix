@@ -1,1 +1,3 @@
 ml/lerobot/
+.env
+*.env
