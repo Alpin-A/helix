@@ -30,7 +30,7 @@ Helix is an end-to-end robotics project that spans three domains:
 
 ## Progress
 - [x] Phase 0: Dataset exploration complete
-- [x] Phase 0: Train ACT policy on pusht simulation
+- [x] Phase 0: Train ACT policy on pusht simulation — final loss 0.370
 - [ ] Phase 1: Firmware foundations — RP2040 servo driver
 - [ ] Phase 2: Hardware assembly and control
 - [ ] Phase 3: Data collection and imitation learning
