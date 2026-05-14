@@ -2,3 +2,4 @@ ml/lerobot/
 .env
 *.env
 ml/outputs/
+.ipynb_checkpoints/
