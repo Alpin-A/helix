@@ -1,3 +1,4 @@
 ml/lerobot/
 .env
 *.env
+ml/outputs/
