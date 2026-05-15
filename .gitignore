@@ -3,3 +3,4 @@ ml/lerobot/
 *.env
 ml/outputs/
 .ipynb_checkpoints/
+build/
