@@ -4,6 +4,8 @@
 
 A Vision-Language-Action (VLA) system for desktop robotics — combining custom embedded firmware, imitation learning, and language-conditioned control into a single cohesive system built from scratch.
 
+> 🚧 Waiting for hardware delivery — assembly and data collection starting soon
+
 ## Overview
 
 Helix is an end-to-end robotics project that spans three domains:
